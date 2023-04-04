@@ -90,11 +90,11 @@
                 </div>
             </div>
             <div class="col-sm-9">
-                <div class="owl-carousel" style="border: 1px solid red; border-radius: 4px; margin-top: 10px">
-                    <div><img src={{asset('images/banner_web.png')}} alt="Image" style="width: 100%; height: 100%;"></div>
-                    <div><img src={{asset('images/banner_web.png')}} alt="Image" style="width: 100%; height: 100%;"></div>
-                    <div><img src={{asset('images/banner_web.png')}} alt="Image" style="width: 100%; height: 100%;"></div>
-                    <div><img src={{asset('images/banner_web.png')}} alt="Image" style="width: 100%; height: 100%;"></div>
+                <div class="owl-carousel" style="border: 1px solid red; border-radius: 4px; margin-top: 10px; width: auto; height: auto;">
+                    <div><img src={{asset('images/banner_web.png')}} alt="Image" style="width: 966px; height: auto;"></div>
+                    <div><img src={{asset('images/banner_web.png')}} alt="Image" style="width: 966px; height: auto;"></div>
+                    <div><img src={{asset('images/banner_web.png')}} alt="Image" style="width: 966px; height: auto;"></div>
+                    <div><img src={{asset('images/banner_web.png')}} alt="Image" style="width: 966px; height: auto;"></div>
                 </div>
                 <div class="slide-progress"></div>
             </div>

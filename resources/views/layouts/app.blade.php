@@ -41,6 +41,7 @@
     $(document).ready(function(){
     $(".owl-carousel").owlCarousel({
         autoWidth:true,
+        responsiveClass: true,
         loop:true,
         autoplay: true,
         autoplayTimeout:10000,
